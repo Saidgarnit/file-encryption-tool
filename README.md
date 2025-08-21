@@ -1,12 +1,12 @@
 # SecureFile - File Encryption Tool
 
-![SecureFile Logo](images/shield-icon.png)
+
 
 A browser-based file encryption tool with AES-256 security.
 
 ## 🔗 Links
 - **Live Demo:** [https://file-encryption-tool.vercel.app/](https://file-encryption-tool.vercel.app/)
-- **GitHub Repository:** [https://github.com/Saidgarnit/file-encryption-tool.git](https://github.com/Saidgarnit/file-encryption-tool.git)
+
 
 ## 🔒 About
 
